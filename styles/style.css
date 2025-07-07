@@ -341,11 +341,6 @@
   margin: 10px 0 0;
 }
 
-.footer__cover {
-  width: 100;
-  position: relative;
-}
-
 .footer {
   display: flex;
   box-sizing: border-box;
